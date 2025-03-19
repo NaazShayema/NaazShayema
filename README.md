@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shayema Naaz</h1>
 <h3 align="center">An aspiring Data Scientist from India</h3>
-<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
+<img src="https://thumbs.dreamstime.com/z/black-female-programmer-her-late-s-sitting-desk-surrounded-high-tech-gadgets-screens-generative-ai-351028213.jpg?ct=jpeg" width="490px" align="right" alt="">
 <img src="https://media4.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="300px" align="centre" alt="">
-<img src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.webp" width="300px" align="centre" alt="">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naazshayema&label=Profile%20views&color=0e75b6&style=flat" alt="naazshayema" /> </p>
@@ -15,7 +14,7 @@
 
 - 💬 Ask me about **AI, ML, DL, NLP, Gen-AI, Data analytics**
 
-- 👨‍�‍� How to reach me **shayemanaaz@gmail.com**
+- ‍�‍� How to reach me **shayemanaaz@gmail.com**
 
 - 📝 Know about my experiences [https://drive.google.com/file/d/11yr2ZHV9YAyrjku1fmdSOSgRTVWPj_na/view](https://drive.google.com/file/d/11yr2ZHV9YAyrjku1fmdSOSgRTVWPj_na/view)
 
