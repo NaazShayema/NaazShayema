@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shayema Naaz</h1>
 <h3 align="center">An aspiring Data Scientist from India</h3>
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
-<img src="[https://media.giphy.com/media/UqN0oduXH2UqI/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5qZXAyaGJoejV2M2Z6cnNjN2EwMmZreWFrMmYwdnY2MWt3d2wxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)" width="300px" align="left" alt="AI gif">
+<img src="https://media.giphy.com/media/UqN0oduXH2UqI/giphy.gif" width="300px" align="left" alt="AI gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naazshayema&label=Profile%20views&color=0e75b6&style=flat" alt="naazshayema" /> </p>
 
@@ -36,5 +36,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naazshayema&show_icons=true&locale=en" alt="naazshayema" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naazshayema&" alt="naazshayema" /></p>
+
 
 
