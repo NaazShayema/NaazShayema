@@ -47,4 +47,5 @@
 </p>
 
 
-<img src="https://raw.githubusercontent.com/naazshayema/naazshayema/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/naazshayema/naazshayema/output/github-snake.svg" alt="Snake animation" />
+
