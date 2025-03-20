@@ -55,8 +55,5 @@
 
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-
-![](https://quotes-github-readme.vercel.app/api?quote=The%20goal%20is%20to%20turn%20data%20into%20information,%20and%20information%20into%20insight.&author=Carly%20Fiorina&type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?quote=The%20real%20power%20of%20AI%20is%20not%20in%20replacing%20humans,%20but%20in%20amplifying%20human%20potential.&author=Fei-Fei%20Li&type=horizontal&theme=dark)
 
