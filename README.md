@@ -47,5 +47,6 @@
 </p>
 
 
-<img src="https://raw.githubusercontent.com/naazshayema/naazshayema/output/github-snake.svg" alt="Snake animation" />
+![GitHub Snake - Dark Mode](https://raw.githubusercontent.com/NaazShayema/output/github-snake-dark.svg#gh-dark-mode-only)
+
 
