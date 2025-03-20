@@ -44,6 +44,4 @@ jobs:
           # Custom commit message
           commit_message: "Update snake animation [skip ci]"
 
-          commit_message: "Update snake animation [skip ci]"
-          commit_message: "Update dark mode snake animation [skip ci]"
 
