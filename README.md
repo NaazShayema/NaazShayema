@@ -47,6 +47,10 @@
 </p>
 
 
-![GitHub Snake - Dark Mode](https://raw.githubusercontent.com/NaazShayema/output/github-snake-dark.svg#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NaazShayema/NaazShayema/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NaazShayema/NaazShayema/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/NaazShayema/NaazShayema/output/github-snake.svg" />
+</picture>
 
 
