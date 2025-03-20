@@ -1,4 +1,4 @@
-name: GitHub Snake Game (Dark Mode)
+name: GitHub Snake Game
 
 on:
   # Schedule the workflow to run daily at midnight UTC
@@ -10,7 +10,6 @@ on:
   push:
     branches:
       - main
-
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -19,20 +18,19 @@ jobs:
       # Step 1: Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v3
-
-      # Step 2: Generate the dark mode snake animation
-      - name: Generate GitHub Contributions Snake Animations (Dark Mode)
+      # Step 2: Generate the snake animations
+      - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
-          # Your GitHub username
-          github_user_name: NaazShayema
-          # Define the output files for dark mode
+          # GitHub username to generate the animation for
+          github_user_name: ${{ github.repository_owner }}
+          # Define the output files and their configurations
           outputs: |
+            dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/dark-ocean.gif?color_snake=#ffcc00&color_dots=#1e293b,#334155,#475569,#64748b,#94a3b8
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
       # Step 3: Deploy the generated files to the 'output' branch
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
@@ -40,6 +38,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          # Custom commit message
+          # Optionally, you can set a custom commit message
+          commit_message: "Update snake animation [skip ci]"
           commit_message: "Update dark mode snake animation [skip ci]"
 
