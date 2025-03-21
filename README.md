@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shayema Naaz</h1>
 <h3 align="center">An aspiring Data Scientist from India</h3>
-<img src="https://thumbs.dreamstime.com/z/black-female-programmer-her-late-s-sitting-desk-surrounded-high-tech-gadgets-screens-generative-ai-351028213.jpg?ct=jpeg" width="490px" align="right" alt="">
+<!-- <img src="https://thumbs.dreamstime.com/z/black-female-programmer-her-late-s-sitting-desk-surrounded-high-tech-gadgets-screens-generative-ai-351028213.jpg?ct=jpeg" width="490px" align="right" alt=""> -->
 <img src="https://media4.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="300px" align="centre" alt="">
+
+<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/49e5716eade46e97656d5d6427b11340-1684516178/ANIMATE1_V2/can-make-gif-animated-in-the-form-of-pixel-art.gif" width="300px" align="centre" alt="">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naazshayema&label=Profile%20views&color=0e75b6&style=flat" alt="naazshayema" /> </p>
